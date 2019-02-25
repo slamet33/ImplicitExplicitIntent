@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intents" >
+        <item>Web</item>
+        <item>Telepon</item>
+        <item>Maps</item>
+        <item>Camera</item>
+        <item>Contact</item>
+        <item>Contact Edit</item>
+    </string-array>
+</resources>
